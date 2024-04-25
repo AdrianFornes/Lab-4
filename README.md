@@ -1,4 +1,4 @@
-# 4
+# Lab 4
 Report of fourth laboratory
 
 ## Resumen
